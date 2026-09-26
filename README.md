@@ -479,33 +479,6 @@ Possible future improvements include:
 
 ---
 
-📸 Screenshots
-
-«Add actual screenshots of the working application here.»
-
-🏠 Home Page
-
-"Add screenshot here"
-
-🔐 Login
-
-"Add screenshot here"
-
-👥 Find Students
-
-"Add screenshot here"
-
-🛠️ Skills Marketplace
-
-"Add screenshot here"
-
-🤖 AI Match
-
-"Add screenshot here"
-
-📚 Resources
-
-"Add screenshot here"
 
 ---
 
